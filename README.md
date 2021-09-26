@@ -28,8 +28,9 @@ python3 test.py
 
 ## Examples
 
+User input 5, and gets result:
+
 ```python
-# User input 5, and gets result:
 >>> n = 5
 Bitcoin
 Ethereum
