@@ -20,6 +20,8 @@ python3 setup.py install
 
 ## Usage
 
+Go to test folder and launch test.py
+
 ## Examples
 
 ```python
