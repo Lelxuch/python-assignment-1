@@ -2,7 +2,7 @@
 
 Title: Assignment 1
 
-Program asks user to input n and as a result it outputs top market capitalizatoin cryptocurrencies
+The program asks the user to enter n and as a result displays the top cryptocurrencies by market capitalization
 
 ## Installation
 
@@ -28,7 +28,7 @@ python3 test.py
 
 ## Examples
 
-User input 5, and gets result:
+The user enters 5 and gets the result:
 
 ```python
 >>> n = 5
