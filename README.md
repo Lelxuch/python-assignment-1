@@ -21,11 +21,15 @@ python3 setup.py install
 ## Usage
 
 Go to test folder and launch test.py
+```bash
+cd test
+python3 test.py
+```
 
 ## Examples
 
 ```python
-# User input 3, ange gets result:
+# User input 5, and gets result:
 >>> n = 5
 Bitcoin
 Ethereum
